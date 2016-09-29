@@ -1,2 +1,3 @@
 # refactored-octo-adventure
 Exercise
+Hey humans, this is my first exercise on github...
